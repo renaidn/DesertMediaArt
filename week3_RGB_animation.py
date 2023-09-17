@@ -1,7 +1,7 @@
 #Name: Adina Maratkyzy
 #Class: Desert Media Art
 #RGB animation sequence
-#Title: a whole lifespan
+#Title: Life in A Blink
 
 import time
 import board
