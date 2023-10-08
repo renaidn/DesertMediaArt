@@ -1,3 +1,8 @@
+#Name: Adina Maratkyzy
+#Class: Desert Media Art
+#photoresistor and led
+#Title: Possessed House
+
 import board
 import neopixel
 import time
